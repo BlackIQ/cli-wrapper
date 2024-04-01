@@ -1,5 +1,5 @@
 {
-  "name": "cli-wrapper",
+  "name": "@blackiq/cli-wrapper",
   "version": "1.0.0",
   "description": "The HTTP CLI Wrapper",
   "type": "module",
