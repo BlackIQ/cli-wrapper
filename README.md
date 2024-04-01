@@ -16,7 +16,7 @@ In this instructure you will learn about how to use this package in your apps.
 How to install **CLI Wrapper**? To install this package, use **NPM**.
 
 ```shell
-$ npm i -g cli-wrapper
+$ npm i -g @blackiq/cli-wrapper
 ```
 
 > We use `-g` to install the package **globally**.
